@@ -1,5 +1,5 @@
 # Photon-lobby-in-Unity
-Мультиплеер лобби в Unity.
+Мультиплеер в Unity.
 По кртакому туториалу вы создаёте свой сервер на базе Photon Engine подключаете его и пользуйтесь.
 
 Сам из себя этот проект представляет лобби в котором насторен Photon Engine и где игроки смогут присоединятся на сервер созданный другим игроком. Так же в проекте !присутсвует система хостигка!(на хосте держится весь сервер - это создано для того что бы в лобб можно было создать не одну, а несколько комнат)
@@ -10,7 +10,7 @@
 к примеру у меня сервер Photon не работает без VPN, в полне возможно что у вас та же проблема.
 
 # Photon-lobby-in-Unity
-Multiplayer lobby in Unity.
+Multiplayer in Unity.
 Follow this short tutorial to create your own server based on Photon Engine, connect it, and start using it.
 
 This project itself consists of a lobby configured with Photon Engine, where players can join a server created by another player. The project also features a hosting system (the entire server is hosted—this is designed to allow for the creation of multiple rooms in the lobby, rather than just one).
