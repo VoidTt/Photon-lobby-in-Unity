@@ -9,7 +9,7 @@
 В проекте очень слабо настроен frontend(визуал) оссобенно на сцене lobby, основной упор шёл именно на backend(скриптинг)
 
 
-
+# Photon-lobby-in-Unity
 Multiplayer lobby in Unity.
 Follow this short tutorial to create your own server based on Photon Engine, connect it, and start using it.
 This project itself consists of a lobby configured with Photon Engine, where players can join a server created by another player. The project also features a hosting system (the entire server is hosted—this is designed to allow for the creation of multiple rooms in the lobby, rather than just one).
