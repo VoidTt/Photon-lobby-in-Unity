@@ -8,7 +8,6 @@
 Сам из себя этот проект представляет лобби в котором насторен Photon Engine и где игроки смогут присоединятся на сервер созданный другим игроком. Так же в проекте !присутсвует система хостигка!(на хосте держится весь сервер - это создано для того что бы в лобб можно было создать не одну, а несколько комнат)
 В проекте очень слабо настроен frontend(визуал) оссобенно на сцене lobby, основной упор шёл именно на backend(скриптинг)
 
-
 # Photon-lobby-in-Unity
 Multiplayer lobby in Unity.
 Follow this short tutorial to create your own server based on Photon Engine, connect it, and start using it.
