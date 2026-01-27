@@ -1,4 +1,5 @@
 # Обязательно загляните Tutorial без этого проект не будет работать!
+
 # Photon-lobby-in-Unity
 
 Мультиплеер в Unity.
@@ -12,6 +13,7 @@
 к примеру у меня сервер Photon не работает без VPN, в полне возможно что у вас та же проблема.
 
 # Be sure to check out the Tutorial, without it the project won't work!
+
 # Photon-lobby-in-Unity
 Multiplayer in Unity.
 Follow this short tutorial to create your own server based on Photon Engine, connect it, and start using it.
