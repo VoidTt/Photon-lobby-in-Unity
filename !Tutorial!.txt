@@ -1,0 +1,59 @@
+!Если вы уже умеете пользоватся Photon в таком случае вам нужно установить Photon(Pun 2 в Unity) и раскомментировать все скрипты
+(!If you already know how to use Photon, then you need to install Photon (Pun 2 in Unity) and uncomment all the scripts!)
+
+
+Перейдите на сайт https://www.photonengine.com/   или же введите в поиске photon engine - (основная задача это создать свой сервер на базе Photon) Авторизуйтесь там,
+1)После авторизации сверху переходите в Dashboard
+2)затем там же в Apps -> Development
+3)Там вы создаёте свой сервер:
+Настройки(менять не советую, но если вы знаете что делаете - то делайте):
+
+Выбираем:
+Multiplayer Game
+
+Select Photon SDK -> Pun
+
+
+Так же укажите название(без разницы какое)
+
+
+
+4)После создания сервера в блоке этого сервера будет   App ID  его копируем
+
+Скачайте ассет Pun 2 - https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
+Импортируйте его в проект и в появившемся окне вставьте ваш AppID
+
+После этого нужно найти Photon Server Settings и в строке App Id PUN указать свой ID. Так же в конце нажмите Edit Allowlist и в Allowed Regions напишите регионы сервера(примеры: "ru; или же eu;") В Unity укажите его в Dev Region. 
+
+Затем раскомментируйте все скрипты и проект должен начать работать.
+
+
+
+----------------------------------------------------
+
+
+
+English version
+
+
+Go to https://www.photonengine.com/ or search for "photon engine" (the main goal is to create your own Photon-based server). Log in there.
+1) After logging in, go to Dashboard.
+2) Then go to Apps -> Development.
+3) Create your server there:
+Settings (I don't recommend changing them, but if you know what you're doing, go for it):
+
+Select:
+Multiplayer Game
+
+Select Photon SDK -> Pun
+
+
+Also, specify a name (it doesn't matter what it is).
+
+
+Download the Pun 2 asset - https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
+Import it into your project and paste your AppID in the window that appears.
+
+Next, find Photon Server Settings and enter your ID in the App ID PUN line. At the end, click Edit Allowlist and enter your server regions in Allowed Regions (examples: "ru; or eu;"). In Unity, enter it in the Dev Region.
+
+Then uncomment all the scripts and the project should start working.
