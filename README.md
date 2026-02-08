@@ -1,6 +1,7 @@
 # Обязательно загляните Tutorial без этого проект не будет работать!
 
 # Photon-lobby-in-Unity
+Версия - Unity 2022.3.62f2
 
 Мультиплеер в Unity.
 По кртакому туториалу вы создаёте свой сервер на базе Photon Engine подключаете его и пользуйтесь.
@@ -15,6 +16,8 @@
 # Be sure to check out the Tutorial, without it the project won't work!
 
 # Photon-lobby-in-Unity
+Version - Unity 2022.3.62f2
+
 Multiplayer in Unity.
 Follow this short tutorial to create your own server based on Photon Engine, connect it, and start using it.
 
